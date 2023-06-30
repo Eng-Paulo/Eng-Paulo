@@ -1,5 +1,6 @@
 
 ### Olá! Eu sou Paulo Roger 👊
+Deus seja louvado!
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Eng-Paulo)
 
@@ -12,11 +13,11 @@
 
 </div><br>
 
-Deus seja louvado!
 
 
+</div>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eng-Paulo}/count.svg" /></p> 
 <br>
 
@@ -28,7 +29,7 @@ Deus seja louvado!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Paulo&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-paulo&&theme=transparenticons=true)
 
 
 
