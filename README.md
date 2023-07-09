@@ -16,12 +16,14 @@
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eng-Paulo}/count.svg" /></p> 
 <br>
- 
+
 <div align="center">  
- <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Paulo&layout=compact&hide_border=true&title_color=00ff00&text_color=33ccff&bg_color=0d1117" />
+ 
+ 
+ 
 </div>
 
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eng-paulo&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eng-paulo&&theme=transparenticons=true)
 
