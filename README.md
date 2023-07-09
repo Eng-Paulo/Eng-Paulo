@@ -23,7 +23,6 @@
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-paulo&layout=compact&hide_border=true&title_color=00ff00&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eng-Paulo&&theme=transparenticons=true)
 
 
