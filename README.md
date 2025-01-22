@@ -17,7 +17,7 @@
 
 
 ### 📊 Estatísticas:
-<p>
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img 
     align="left"
@@ -33,7 +33,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Paulo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p></div>
+</div>
 
  
 
