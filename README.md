@@ -2,8 +2,6 @@
 
 ## Lâmpada para os meus pés é tua palavra, e luz para o meu caminho. Salmos 119:105 👊
 
-
-
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eng-Paulo}/count.svg" /></p> 
@@ -24,7 +22,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 2px;" 
     src="https://github-readme-stats.vercel.app/api?username=Eng-Paulo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
