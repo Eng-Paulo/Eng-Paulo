@@ -3,7 +3,7 @@
 ## Lâmpada para os meus pés é tua palavra, e luz para o meu caminho. Salmos 119:105 👊
 
 
-</div>
+
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eng-Paulo}/count.svg" /></p> 
@@ -11,17 +11,14 @@
 
 
 <div align="center">  
- <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,git,github,linux,vscode,notion,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,git,github,linux,vscode,notion,&theme=dark" />
  
- 
-
 <br>
 <hr>
 
 
 
 ### 📊 Estatísticas:
-
 <p>
   <img 
     align="left" 
@@ -40,18 +37,8 @@
 
 </p>
 
+ 
 
-  
-
-
-</p>
-<br>
-
-
-<br>
-
-
-<br>
 
 
 ![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
