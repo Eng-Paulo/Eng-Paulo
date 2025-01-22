@@ -18,10 +18,9 @@
 
 ### 📊 Estatísticas:
 <p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <img 
     align="left"
-    style="display: inline-block; margin-right: 10px;"
-    style="margin-right: 10px;"
     alt="GitHub Stats" 
     height="190" 
     src="https://github-readme-stats.vercel.app/api?username=Eng-Paulo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
@@ -34,7 +33,7 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Paulo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-</p>
+</p></div>
 
  
 
