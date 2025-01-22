@@ -27,8 +27,7 @@
   />
 
 <img 
-      align="left"
-      style="display: inline-block; margin-right: 10px;" 
+      align="left" 
       alt="GitHub Stats" 
       height="190" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Paulo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
