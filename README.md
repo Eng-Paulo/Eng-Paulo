@@ -1,16 +1,65 @@
-## Hi there 👋
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Seja+bem-vindo!;" />
 
-<!--
-**Eng-Paulo/Eng-Paulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lâmpada para os meus pés é tua palavra, e luz para o meu caminho. Salmos 119:105 👊
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<div align="center">
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eng-Paulo}/count.svg" /></p> 
+<br>
+
+
+<div align="center">  
+ <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nodejs,react,git,github,linux,vscode,notion,&theme=dark" />
+ 
+ 
+
+<br>
+<hr>
+
+### 📊 Estatísticas:
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Eng-Paulo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Paulo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
+  
+</div>
+
+</p>
+<br>
+
+
+<br>
+
+
+<br>
+
+
+![Snake animation](https://github.com/betafontes/betafontes/blob/output/github-contribution-grid-snake.svg)
+</div>
+<br>
+<p>
+ 
+
+
+
+
+ 
+
