@@ -21,7 +21,7 @@
     align="left" 
     alt="GitHub Stats" 
     height="200"
-    width="460"
+    width="360"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=eng-paulo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
