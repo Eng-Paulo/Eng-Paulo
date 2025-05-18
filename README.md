@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Seja+bem-vindo!;" />
 
-## Lâmpada para os meus pés é tua palavra, e luz para o meu caminho. Salmos 119:105 👊
+## Ciências e Tecnologia | Análise e Desenvolvimento de Sistemas
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
