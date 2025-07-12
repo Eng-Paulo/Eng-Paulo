@@ -2,12 +2,6 @@
 
 ## Ciências e Tecnologia | Análise e Desenvolvimento de Sistemas
 
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Eng-Paulo}/count.svg" /></p> 
-<br>
-
-
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,nodejs,cpp,react,git,github,linux,vscode,notion,&theme=dark" />
  
