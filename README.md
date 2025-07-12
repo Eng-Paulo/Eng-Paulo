@@ -29,7 +29,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="190" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=eng-paulo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng-Paulo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
