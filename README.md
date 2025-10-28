@@ -11,7 +11,6 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,nodejs,cpp,react,git,github,linux,vscode,notion&theme=dark" />
  
 <br>
-<hr>
 
  
 
